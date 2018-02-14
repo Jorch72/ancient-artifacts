@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aa",
+  "name": "Ancient Artifacts",
+  "description": "Adding in old and forgotten Artifacts.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kashdeya"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
